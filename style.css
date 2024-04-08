@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Prompt';
+}
+
+body {
+    background-color: #211A1D;
+    height: 100svh;
+}
+
+div img {
+    width: 300px;
+    border-radius: 12px;
+}
+
+.cabecalho{
+    background-color: #6320EE;
+    padding: 28px;
+    border-bottom: 12px;
+    text-align: center;
+    width: 400px;
+    margin-inline: auto;
+}
